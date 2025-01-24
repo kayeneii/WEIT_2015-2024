@@ -79,4 +79,4 @@ The following tools were used in the creation of this report.
 
 
 ## Conclusion
-Thank you for reading my report.🥳 You may find me on [LinkedIn](https://www.linkedin.com/in/kayeneii/) for collaborations. I look forward to hearing from you.😄
+Thank you for reading my report!🥳 You may find me on [LinkedIn](https://www.linkedin.com/in/kayeneii/) for collaborations, I look forward to hearing from you.😄
