@@ -13,20 +13,17 @@ This is a report on the analysis of world energy investment data obtained from t
 # World Energy Investment Trends 2015-2024
 
 ## Overview
----
 This project was built to analyze and predict energy investment trends worldwide with the aid of the World Energy Investment 2024 Datafile by the IEA. The major goal was to identify key metrics and trends that help understand energy investment patterns globally, track energy typology, and identify key regions driving energy investment. Additionally, the findings of the data was used to predict future trends to ascertain probability of meeting SDG 2030 Goal.
 
 ### Disclaimer: This is a work derived by [Adebayo Favour](https://www.linkedin.com/in/kayeneii/) from IEA material and Adebayo Favour is solely responsible for this derived work. The derived work is not endorsed by the IEA in any manner.
 
 
 ## Dataset
----
 The dataset used in generating this report was the World Energy Investment 2024 Datafile.xlsx provided by the _International Energy Agency_ (IEA). You can find it at [IEA](https://www.iea.org/data-and-statistics/data-product/world-energy-investment-2024-datafile).
 A data frame with 112 observations on 9 (numeric) variables was created.
 
 
-### Objectives
----
+## Objectives
 To derive answers to the following questions:
   - What is the year-on-year energy investment in:
        * Africa
@@ -50,8 +47,7 @@ To derive answers to the following questions:
   - What is the probability of each region meeting the SDG 7 [2030 Agenda for Sustainable Development](https://sdgs.un.org/2030agenda)?
 
     
-### Methods
----
+## Methods
 The following tools were used in the creation of this report.
 1. **Microsoft Excel:** For data exploration, cleaning and preparation.
   * Data Cleaning and Preparation:
@@ -74,17 +70,12 @@ The following tools were used in the creation of this report.
    - Communication
 
 
-### Insights
----
+## Insights
 
-### Visualizations
----
+## Visualizations
 
-### Predictions
----
+## Predictions
 
 
-### Conclusion
----
-You made it to the end of the customer churn analysis.🥳
-Until my next report, you may find me [here.](https://www.linkedin.com/in/kayeneii/) I look forward to hearing from you.😄
+## Conclusion
+Thank you for reading my report.🥳 You may find me on [LinkedIn](https://www.linkedin.com/in/kayeneii/) for collaborations. I look forward to hearing from you.😄
