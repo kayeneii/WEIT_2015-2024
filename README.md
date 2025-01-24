@@ -11,7 +11,7 @@ This is a report on the analysis of world energy investment data obtained from t
 [Conclusion](#conclusion)
 
 # World Energy Investment Trends 2015-2024
-WEIT PNG [https://github.com/kayeneii/WEIT_2015-2024/blob/main/WEIT.png]
+![WEIT PNG](https://github.com/kayeneii/WEIT_2015-2024/blob/main/WEIT.png)
 
 ## Overview
 This project was built to analyze and predict energy investment trends worldwide with the aid of the World Energy Investment 2024 Datafile by the IEA. The major goal was to identify key metrics and trends that help understand energy investment patterns globally, track energy typology, and identify key regions driving energy investment. Additionally, the findings of the data was used to predict future trends to ascertain probability of meeting SDG 2030 Goal.
@@ -20,8 +20,8 @@ This project was built to analyze and predict energy investment trends worldwide
 
 
 ## Dataset
-A data frame with 112 observations on 9 (numeric) variables was created from the World Energy Investment 2024 Datafile.xlsx provided by the _International Energy Agency_ (IEA). You can find it at [IEA](https://www.iea.org/data-and-statistics/data-product/world-energy-investment-2024-datafile).
-
+A data frame with 112 observations on 10 (numeric) variables was created from the World Energy Investment 2024 Datafile.xlsx provided by the _International Energy Agency_ (IEA). You can find it at [IEA](https://www.iea.org/data-and-statistics/data-product/world-energy-investment-2024-datafile).
+![WEIT Data frame](https://github.com/kayeneii/WEIT_2015-2024/blob/main/dataframe.png)
 
 
 ## Objectives
