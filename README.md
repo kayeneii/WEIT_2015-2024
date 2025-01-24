@@ -19,8 +19,8 @@ This project was built to analyze and predict energy investment trends worldwide
 
 
 ## Dataset
-The dataset used in generating this report was the World Energy Investment 2024 Datafile.xlsx provided by the _International Energy Agency_ (IEA). You can find it at [IEA](https://www.iea.org/data-and-statistics/data-product/world-energy-investment-2024-datafile).
-A data frame with 112 observations on 9 (numeric) variables was created.
+A data frame with 112 observations on 9 (numeric) variables was created from the World Energy Investment 2024 Datafile.xlsx provided by the _International Energy Agency_ (IEA). You can find it at [IEA](https://www.iea.org/data-and-statistics/data-product/world-energy-investment-2024-datafile).
+
 
 
 ## Objectives
