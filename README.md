@@ -16,7 +16,7 @@ This is a report on the analysis of world energy investment data obtained from t
 ## Overview
 This project was built to analyze and predict energy investment trends worldwide with the aid of the World Energy Investment 2024 Datafile by the IEA. The major goal was to identify key metrics and trends that help understand energy investment patterns globally, track energy typology, and identify key regions driving energy investment. Additionally, the findings of the data was used to predict future trends to ascertain probability of meeting SDG 2030 Goal.
 
-### Disclaimer: This is a work derived by [Adebayo Favour](https://www.linkedin.com/in/kayeneii/) from IEA material and Adebayo Favour is solely responsible for this derived work. The derived work is not endorsed by the IEA in any manner.
+**Disclaimer:** This is a work derived by [Adebayo Favour](https://www.linkedin.com/in/kayeneii/) from IEA material and Adebayo Favour is solely responsible for this derived work. The derived work is not endorsed by the IEA in any manner.
 
 
 ## Dataset
