@@ -7,7 +7,7 @@ This is a report on the analysis of world energy investment data obtained from t
 [Methods](#methods)
 [Insights](#insights)
 [Visualizations](#visualizations)
-[Predictions](predictions)
+[Predictions](predictions (2025-2030))
 [Conclusion](#conclusion)
 
 # World Energy Investment Trends 2015-2024
@@ -53,7 +53,9 @@ The following tools were used in the creation of this report.
 1. **Microsoft Excel:** For data exploration, cleaning and preparation.
   * Data Cleaning and Preparation:
     - Data loading and inspection
-    -  Data cleaning
+    - Data cleaning
+
+  * Foresight & Data Prediction
        
 2. **Microsoft Power BI:** For,
   * Further Data Processing:
@@ -64,19 +66,24 @@ The following tools were used in the creation of this report.
 
   * Data Visualizations: Cards, Bar, Pie and Donut Charts was used to visually plot out the subscription service rates,  customer account and demographic information, among other summarized data.
 
-3. **Microsoft Power Point:** For report creation.
+  * Report Creattion
 
-4. **GitHUb:** For,
-   - Portfolio Building
-   - Communication
+3. **GitHUb:** For,
+ * Portfolio Building
+ * Communication
 
 
 ## Insights
 
+
 ## Visualizations
+![WEIT1](https://github.com/kayeneii/WEIT_2015-2024/blob/main/WEIT_1.png)
+![WEIT2](https://github.com/kayeneii/WEIT_2015-2024/blob/main/WEIT_2.png)
+![WEIT3](https://github.com/kayeneii/WEIT_2015-2024/blob/main/WEIT_3.png)
 
-## Predictions
 
+## Predictions (2025-2030)
+![WEITPredictions](https://github.com/kayeneii/WEIT_2015-2024/blob/main/WEIT%20Prediction_2025-2030.png)
 
 ## Conclusion
 Thank you for reading my report!🥳 You may find me on [LinkedIn](https://www.linkedin.com/in/kayeneii/) for collaborations, I look forward to hearing from you.😄
