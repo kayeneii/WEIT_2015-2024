@@ -7,7 +7,7 @@ This is a report on the analysis of world energy investment data obtained from t
 [Methods](#methods)
 [Insights](#insights)
 [Visualizations](#visualizations)
-[Predictions](predictions-and-foresight)
+[Predictions](predictions)
 [Conclusion](#conclusion)
 
 # World Energy Investment Trends 2015-2024
@@ -82,7 +82,7 @@ The following tools were used in the creation of this report.
 ![WEIT3](https://github.com/kayeneii/WEIT_2015-2024/blob/main/WEIT_3.png)
 
 
-## Predictions and Foresight
+## Predictions
 ![WEITPredictions](https://github.com/kayeneii/WEIT_2015-2024/blob/main/WEIT%20Prediction_2025-2030.png)
 
 ## Conclusion
