@@ -7,7 +7,7 @@ This is a report on the analysis of world energy investment data obtained from t
 [Methods](#methods)
 [Insights](#insights)
 [Visualizations](#visualizations)
-[Predictions](predictions_and_foresight)
+[Predictions](predictions-and-foresight)
 [Conclusion](#conclusion)
 
 # World Energy Investment Trends 2015-2024
