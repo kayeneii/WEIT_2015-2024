@@ -104,14 +104,36 @@ Insights gotten from the data analysis include:
 
 
 ## Predictions
-- The future investment trend for all regions in 2025-2030 is predicted to be:
-    * Africa ![WEITAfrica](https://github.com/kayeneii/WEIT_2015-2024/blob/main/Africa.png)
-    * Asia Pacific ![WEITAP](https://github.com/kayeneii/WEIT_2015-2024/blob/main/AP.png)
-    * Central and South America ![WEITCaS](https://github.com/kayeneii/WEIT_2015-2024/blob/main/CaS.png)
-    * Eurasia ![WEITEurasia](https://github.com/kayeneii/WEIT_2015-2024/blob/main/Eurasia.png)
-    * Europe ![WEITEurope](https://github.com/kayeneii/WEIT_2015-2024/blob/main/Europe.png)
-    * Middle East ![WEITME](https://github.com/kayeneii/WEIT_2015-2024/blob/main/ME.png)
-    * North America ![WEITNA](https://github.com/kayeneii/WEIT_2015-2024/blob/main/NA.png)
+The future investment trend for all regions in 2025-2030 is predicted to be:
+  * Africa
+
+![WEITAfrica](https://github.com/kayeneii/WEIT_2015-2024/blob/main/Africa.png)
+    
+  * Asia Pacific 
+    
+![WEITAP](https://github.com/kayeneii/WEIT_2015-2024/blob/main/AP.png)
+    
+  * Central and South America 
+    
+![WEITCaS](https://github.com/kayeneii/WEIT_2015-2024/blob/main/CaS.png)
+    
+  * Eurasia
+
+![WEITEurasia](https://github.com/kayeneii/WEIT_2015-2024/blob/main/Eurasia.png)
+
+  * Europe
+
+![WEITEurope](https://github.com/kayeneii/WEIT_2015-2024/blob/main/Europe.png)
+   
+  * Middle East
+
+![WEITME](https://github.com/kayeneii/WEIT_2015-2024/blob/main/ME.png)
+
+  * North America
+
+![WEITNA](https://github.com/kayeneii/WEIT_2015-2024/blob/main/NA.png)
+
+The United Nations Sustainable Development Goal (SDG) 7.3 Agenda states that all countries and stakeholders are required to double the global rate of improvement in energy efficiency by 2030. In 2024, the global investment in energy efficiency stood at $354.54 Billion (USD) worldwide. Therefore by 2030, this figure should have increased to at least $709 Billion (USD). The probability of this happening
 
 
 ## Visualizations
