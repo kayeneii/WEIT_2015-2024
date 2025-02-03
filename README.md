@@ -36,7 +36,7 @@ To derive answers to the following questions:
        * North America
   and what percentage was spent on energy generation and storage?
   - Which region recorded the highest investment in energy since 2020?
-  - What was the year-on-year percentage difference between 2019 and 2020 in all seven regions? Was it an increase or decrease?
+  - What was the percentage difference in energy investment across all seven regions between 2019 and 2020? Was it an increase or decrease?
   - What 3 regions had the highest investment in Clean Energy as at 2024? (Clean Energy includes: Clean Fuels, Transitional fossil fuels, Nuclear, Renewables, Storage, Electricity networks, Fossil  fuels: with CCUS and End-use.) 
   - What is the future investment trend for the next five years in:
        * Africa
@@ -90,13 +90,26 @@ Insights gotten from the data analysis include:
 - The Asia-Pacific region recorded the highest investment in energy since 2020 at a total value of $895 Billion (USD) in 2020, marking its all-time lowest, and 1.29 Trillion in 2024.
 
 - Percentage difference between 2019 and 2020 in all seven regions
- * Africa realized a 28% difference between 2019 and 2020, coming in at a **24.5% decrease** from $106 Billion (USD) in 2019 to $60 Billion USD in 2020
- * Asia-Pacific realized a 4.2% difference between 2019 and 2020, coming in at a **4% decrease** from $933.66 Billion (USD) in 2019 to $894.93 Billion USD in 2020
- * Central and South America realized a 19.4% difference between 2019 and 2020, coming in at an **18% decrease** from $114 Billion (USD) in 2019 to $94 Billion USD in 2020
- * Eurasia realized a 14% difference between 2019 and 2020, coming in at a **13% decrease** from $125.34 Billion (USD) in 2019 to $109 Billion USD in 2020
- * Europe realized a 3.8% difference between 2019 and 2020, coming in at a **3.8% increase** from $374 Billion (USD) in 2019 to $388.47 Billion USD in 2020
- * Middle East realized a 15.7% difference between 2019 and 2020, coming in at a **14.5% decrease** from $147.28 Billion (USD) in 2019 to $125.88 Billion USD in 2020
- * North America realized a 17.3% difference between 2019 and 2020, coming in at a **16% decrease** from $506.73 Billion (USD) in 2019 to $426 Billion USD in 2020
+   * Africa realized a 28% difference between 2019 and 2020, coming in at a **24.5% decrease** from $106 Billion (USD) in 2019 to $60 Billion USD in 2020
+   * Asia-Pacific realized a 4.2% difference between 2019 and 2020, coming in at a **4% decrease** from $933.66 Billion (USD) in 2019 to $894.93 Billion USD in 2020
+   * Central and South America realized a 19.4% difference between 2019 and 2020, coming in at an **18% decrease** from $114 Billion (USD) in 2019 to $94 Billion USD in 2020
+   * Eurasia realized a 14% difference between 2019 and 2020, coming in at a **13% decrease** from $125.34 Billion (USD) in 2019 to $109 Billion USD in 2020
+   * Europe realized a 3.8% difference between 2019 and 2020, coming in at a **3.8% increase** from $374 Billion (USD) in 2019 to $388.47 Billion USD in 2020
+   * Middle East realized a 15.7% difference between 2019 and 2020, coming in at a **14.5% decrease** from $147.28 Billion (USD) in 2019 to $125.88 Billion USD in 2020
+   * North America realized a 17.3% difference between 2019 and 2020, coming in at a **16% decrease** from $506.73 Billion (USD) in 2019 to $426 Billion USD in 2020
+ 
+*Eurasia was the only region to record a percentage increase in energy investment between 2019 and 2020*
+
+- The 3 regions that had the highest investment in Clean Energy as at 2024 were Asia-Pacific, Europe, and North America.
+
+- The future investment trend for all regions in 2025-2030 is predicted to be:
+    * Africa
+    * Asia Pacific
+    * Central and South America
+    * Eurasia
+    * Europe
+    * Middle East
+    * North America
 
 
 ## Visualizations
