@@ -98,18 +98,20 @@ Insights gotten from the data analysis include:
    * Middle East realized a 15.7% difference between 2019 and 2020, coming in at a **14.5% decrease** from $147.28 Billion (USD) in 2019 to $125.88 Billion USD in 2020
    * North America realized a 17.3% difference between 2019 and 2020, coming in at a **16% decrease** from $506.73 Billion (USD) in 2019 to $426 Billion USD in 2020
  
-*Eurasia was the only region to record a percentage increase in energy investment between 2019 and 2020*
+*Europe was the only region to record a percentage increase in energy investment between 2019 and 2020*
 
 - The 3 regions that had the highest investment in Clean Energy as at 2024 were Asia-Pacific, Europe, and North America.
 
+
+## Predictions
 - The future investment trend for all regions in 2025-2030 is predicted to be:
-    * Africa
-    * Asia Pacific
-    * Central and South America
-    * Eurasia
-    * Europe
-    * Middle East
-    * North America
+    * Africa ![WEITAfrica](https://github.com/kayeneii/WEIT_2015-2024/blob/main/Africa.png)
+    * Asia Pacific ![WEITAP](https://github.com/kayeneii/WEIT_2015-2024/blob/main/AP.png)
+    * Central and South America ![WEITCaS](https://github.com/kayeneii/WEIT_2015-2024/blob/main/CaS.png)
+    * Eurasia ![WEITEurasia](https://github.com/kayeneii/WEIT_2015-2024/blob/main/Eurasia.png)
+    * Europe ![WEITEurope](https://github.com/kayeneii/WEIT_2015-2024/blob/main/Europe.png)
+    * Middle East ![WEITME](https://github.com/kayeneii/WEIT_2015-2024/blob/main/ME.png)
+    * North America ![WEITNA](https://github.com/kayeneii/WEIT_2015-2024/blob/main/NA.png)
 
 
 ## Visualizations
@@ -117,9 +119,6 @@ Insights gotten from the data analysis include:
 ![WEIT2](https://github.com/kayeneii/WEIT_2015-2024/blob/main/WEIT_2.png)
 ![WEIT3](https://github.com/kayeneii/WEIT_2015-2024/blob/main/WEIT_3.png)
 
-
-## Predictions
-![WEITPredictions](https://github.com/kayeneii/WEIT_2015-2024/blob/main/WEIT%20Prediction_2025-2030.png)
 
 ## Conclusion
 Thank you for reading my report!🥳 You may find me on [LinkedIn](https://www.linkedin.com/in/kayeneii/) for collaborations, I look forward to hearing from you.😄
