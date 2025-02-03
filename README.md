@@ -91,7 +91,7 @@ Insights gotten from the data analysis include:
 
 - The Asia-Pacific region recorded the highest investment in energy since 2020 at a total value of $895 Billion (USD) in 2020, marking its all-time lowest, and 1.29 Trillion in 2024.
 
-- Percentage difference between 2019 and 2020 in all seven regions
+- Percentage difference between 2019 and 2020 in all seven regions:
    * Africa realized a 28% difference between 2019 and 2020, coming in at a **24.5% decrease** from $106 Billion (USD) in 2019 to $60 Billion USD in 2020
    * Asia-Pacific realized a 4.2% difference between 2019 and 2020, coming in at a **4% decrease** from $933.66 Billion (USD) in 2019 to $894.93 Billion USD in 2020
    * Central and South America realized a 19.4% difference between 2019 and 2020, coming in at an **18% decrease** from $114 Billion (USD) in 2019 to $94 Billion USD in 2020
@@ -156,7 +156,7 @@ Result
 That is, approximately 12.24% increase per year.
 
 
-If so, then by framing a conditional probability model, the probability of reaching $709 billion in global energy efficiency investments by 2030 (𝑃(𝐴)P(A)) under specific conditions is 0.9. 
+If so, then by framing a conditional probability model, the probability of reaching $709 billion in global energy efficiency investments by 2030 (𝑃(𝐴)P(A)) under specific conditions is 0.9 (that is a 90% chance). 
 
 * **Events**
 
@@ -186,7 +186,7 @@ Assume:
 
 𝑃(𝐴∣𝐵,𝐶,𝐷)=0.9: 90% chance of hitting $709 billion if all conditions are met.
 
-Joint probability of conditions:```𝐵,𝐶,B,C, and 𝐷: 𝑃(𝐵∩𝐶∩𝐷)=𝑃(𝐵)⋅𝑃(𝐶)⋅𝑃(𝐷)=0.8×0.7×0.6=0.336```
+Joint probability of conditions: ```𝐵,𝐶,B,C, and 𝐷: 𝑃(𝐵∩𝐶∩𝐷)=𝑃(𝐵)⋅𝑃(𝐶)⋅𝑃(𝐷)=0.8×0.7×0.6=0.336```
 
 Probability of hitting $709 billion: ```𝑃(𝐴∩𝐵∩𝐶∩𝐷)=𝑃(𝐴∣𝐵,𝐶,𝐷)⋅𝑃(𝐵∩𝐶∩𝐷)=0.9×0.336=0.3024```
 
@@ -203,4 +203,4 @@ Final Probability: ```𝑃(𝐴∣𝐵,𝐶,𝐷)=𝑃(𝐴∩𝐵∩𝐶∩𝐷
 
 ---
 ## Conclusion
-Thank you for reading my report!🥳 You may find me on [LinkedIn](https://www.linkedin.com/in/kayeneii/) for collaborations, I look forward to hearing from you.😄
+Thank you for reading my report!🥳 You may find me on [LinkedIn](https://www.linkedin.com/in/kayeneii/) for collaboration or consultation, I look forward to hearing from you.😄
