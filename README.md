@@ -48,7 +48,8 @@ To derive answers to the following questions:
        * North America
   - What is the probability of each region meeting the SDG 7 [2030 Agenda for Sustainable Development](https://sdgs.un.org/2030agenda)?
 
-    
+
+---
 ## Methods
 The following tools were used in the creation of this report.
 1. **Microsoft Excel:** For data exploration, cleaning and preparation.
@@ -76,6 +77,7 @@ The following tools were used in the creation of this report.
 4. **LinkedIn:** For communication.
 
 
+---
 ## Insights
 Insights gotten from the data analysis include:
 - Annual energy investment per region and percentage total invested in energy generation and storage.
@@ -103,35 +105,38 @@ Insights gotten from the data analysis include:
 - The 3 regions that had the highest investment in Clean Energy as at 2024 were Asia-Pacific, Europe, and North America.
 
 
+---
 ## Predictions
 1. The future investment trend for all regions in 2025-2030 is predicted to be:
-  * Africa
+
+Africa
 
 ![WEITAfrica](https://github.com/kayeneii/WEIT_2015-2024/blob/main/Africa.png)
     
-  * Asia Pacific 
+Asia Pacific 
     
 ![WEITAP](https://github.com/kayeneii/WEIT_2015-2024/blob/main/AP.png)
     
-  * Central and South America 
+Central and South America 
     
 ![WEITCaS](https://github.com/kayeneii/WEIT_2015-2024/blob/main/CaS.png)
     
-  * Eurasia
+Eurasia
 
 ![WEITEurasia](https://github.com/kayeneii/WEIT_2015-2024/blob/main/Eurasia.png)
 
-  * Europe
+Europe
 
 ![WEITEurope](https://github.com/kayeneii/WEIT_2015-2024/blob/main/Europe.png)
    
-  * Middle East
+Middle East
 
 ![WEITME](https://github.com/kayeneii/WEIT_2015-2024/blob/main/ME.png)
 
-  * North America
+North America
 
 ![WEITNA](https://github.com/kayeneii/WEIT_2015-2024/blob/main/NA.png)
+
 
 2. The United Nations Sustainable Development Goal (SDG) 7.3 Agenda states that all countries and stakeholders are required to double the global rate of improvement in energy efficiency by 2030. In 2024, the global investment in energy efficiency stood at $354.54 Billion (USD) worldwide. Therefore by 2030, this figure should have increased to at least $709 Billion (USD). Therefore, the required Compound Annual Growth Rate (CAGR) to increase global investment in energy efficiency from $354.54 billion in 2024 to $709 billion by 2030 is calculated: 
 
@@ -150,7 +155,8 @@ Result
 ```
 That is, approximately 12.24% increase per year.
 
-If so, then the probability of reaching $709 billion in global energy efficiency investments by 2030 (𝑃(𝐴)P(A)) under specific conditions is calculated by framing a conditional probability model.
+
+If so, then by framing a conditional probability model, the probability of reaching $709 billion in global energy efficiency investments by 2030 (𝑃(𝐴)P(A)) under specific conditions is 0.9. 
 
 * **Events**
 
@@ -187,7 +193,7 @@ Probability of hitting $709 billion: ```𝑃(𝐴∩𝐵∩𝐶∩𝐷)=𝑃(�
 Final Probability: ```𝑃(𝐴∣𝐵,𝐶,𝐷)=𝑃(𝐴∩𝐵∩𝐶∩𝐷)/𝑃(𝐵∩𝐶∩𝐷)=0.3024/0.336=0.9```
 
 
-
+---
 ## Visualizations
 ![WEIT1](https://github.com/kayeneii/WEIT_2015-2024/blob/main/WEIT_1.png)
 ![WEIT2](https://github.com/kayeneii/WEIT_2015-2024/blob/main/WEIT_2.png)
@@ -195,5 +201,6 @@ Final Probability: ```𝑃(𝐴∣𝐵,𝐶,𝐷)=𝑃(𝐴∩𝐵∩𝐶∩𝐷
 ![WEIT3](https://github.com/kayeneii/WEIT_2015-2024/blob/main/WEIT_3.png)
 ![WEIT4](https://github.com/kayeneii/WEIT_2015-2024/blob/main/WEIT_4.png)
 
+---
 ## Conclusion
 Thank you for reading my report!🥳 You may find me on [LinkedIn](https://www.linkedin.com/in/kayeneii/) for collaborations, I look forward to hearing from you.😄
