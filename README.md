@@ -26,7 +26,7 @@ A data frame with 112 observations on 10 (numeric) variables was created from th
 
 ## Objectives
 To derive answers to the following questions:
-  - What is the year-on-year energy investment in:
+  - What is the annual energy investment in:
        * Africa
        * Asia Pacific
        * Central and South America
@@ -35,7 +35,8 @@ To derive answers to the following questions:
        * Middle East
        * North America
   and what percentage was spent on energy generation and storage?
-  - Which region recorded the highest investment in energy over the last 5 years?
+  - Which region recorded the highest investment in energy since 2020?
+  - What was the year-on-year percentage difference between 2019 and 2020 in all seven regions? Was it an increase or decrease?
   - What 3 regions had the highest investment in Clean Energy as at 2024? (Clean Energy includes: Clean Fuels, Transitional fossil fuels, Nuclear, Renewables, Storage, Electricity networks, Fossil  fuels: with CCUS and End-use.) 
   - What is the future investment trend for the next five years in:
        * Africa
@@ -55,25 +56,47 @@ The following tools were used in the creation of this report.
     - Data loading and inspection
     - Data cleaning
 
-  * Foresight & Data Prediction
+  * Foresight & Data Prediction: The FORECAST function was used to predict the energy investment of each region from 2025-2030.
        
 2. **Microsoft Power BI:** For,
   * Further Data Processing:
     - Data loading and quality inspection
     - Data transformation and formatting
 
-  * Data Analysis: During the analysis, the following conditional columns were created in the Power Query:
+  * Data Analysis: During the analysis, the following measures were created in the Power Query to calculate the percentage of the region with the highest investment in clean energy. {i.e., Total energy investment / Asia-Pacific clean energy investment * 100}
 
-  * Data Visualizations: Cards, Bar, Pie and Donut Charts was used to visually plot out the subscription service rates,  customer account and demographic information, among other summarized data.
+     ```DAX Percentage = 859136000000 / 1661000000000 * 100 ```
 
-  * Report Creattion
+  * Data Visualizations: Cards, Column and Line Charts were used to visually plot out the annual investment rates,  clean energy investment, energy investment profile of each region, and other summarized data.
 
-3. **GitHUb:** For,
- * Portfolio Building
- * Communication
+  * Report Creation
+
+3. **GitHUb:** For portfolio building
+
+4. **LinkedIn:** For communication.
 
 
 ## Insights
+Insights gotten from the data analysis include:
+- Annual energy investment per region and percentage total invested in energy generation and storage.
+  * Africa: $26.529 Billion was spent on energy generation and storage, making up % of her total investment of in 2024 
+  * Asia Pacific: $551.036 Billion was spent on energy generation and storage, making up % of her total investment of in 2024
+  * Central and South America: $44.786 Billion (USD) was spent on energy generation and storage, making up % of her total investment of in 2024
+  * Eurasia: $20.29 Billion (USD) was spent on energy generation and storage, making up % of her total investment of in 2024
+  * Europe: $194.43 Billion (USD) was spent on energy generation and storage, making up % of her total investment of in 2024
+  * Middle East: $18.901 Billion (USD) was spent on energy generation and storage, making up % of her total investment of in 2024
+  * North America: $127.593 Billion (USD) was spent on energy generation and storage, making up % of her total investment of in 2024
+
+- The Asia-Pacific region recorded the highest investment in energy since 2020 at a total value of $895 Billion (USD) in 2020, marking its all-time lowest, and 1.29 Trillion in 2024.
+
+- Percentage difference between 2019 and 2020 in all seven regions
+ * Africa realized a 28% difference between 2019 and 2020, coming in at a **24.5% decrease** from $106 Billion (USD) in 2019 to $60 Billion USD in 2020
+ * Asia-Pacific realized a 4.2% difference between 2019 and 2020, coming in at a **4% decrease** from $933.66 Billion (USD) in 2019 to $894.93 Billion USD in 2020
+ * Central and South America realized a 19.4% difference between 2019 and 2020, coming in at an **18% decrease** from $114 Billion (USD) in 2019 to $94 Billion USD in 2020
+ * Eurasia realized a 14% difference between 2019 and 2020, coming in at a **13% decrease** from $125.34 Billion (USD) in 2019 to $109 Billion USD in 2020
+ * Europe realized a 3.8% difference between 2019 and 2020, coming in at a **3.8% increase** from $374 Billion (USD) in 2019 to $388.47 Billion USD in 2020
+ * Middle East realized a 15.7% difference between 2019 and 2020, coming in at a **14.5% decrease** from $147.28 Billion (USD) in 2019 to $125.88 Billion USD in 2020
+ * North America realized a 17.3% difference between 2019 and 2020, coming in at a **16% decrease** from $506.73 Billion (USD) in 2019 to $426 Billion USD in 2020
 
 
 ## Visualizations
