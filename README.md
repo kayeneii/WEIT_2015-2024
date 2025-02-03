@@ -104,7 +104,7 @@ Insights gotten from the data analysis include:
 
 
 ## Predictions
-The future investment trend for all regions in 2025-2030 is predicted to be:
+1. The future investment trend for all regions in 2025-2030 is predicted to be:
   * Africa
 
 ![WEITAfrica](https://github.com/kayeneii/WEIT_2015-2024/blob/main/Africa.png)
@@ -133,14 +133,67 @@ The future investment trend for all regions in 2025-2030 is predicted to be:
 
 ![WEITNA](https://github.com/kayeneii/WEIT_2015-2024/blob/main/NA.png)
 
-The United Nations Sustainable Development Goal (SDG) 7.3 Agenda states that all countries and stakeholders are required to double the global rate of improvement in energy efficiency by 2030. In 2024, the global investment in energy efficiency stood at $354.54 Billion (USD) worldwide. Therefore by 2030, this figure should have increased to at least $709 Billion (USD). The probability of this happening
+2. The United Nations Sustainable Development Goal (SDG) 7.3 Agenda states that all countries and stakeholders are required to double the global rate of improvement in energy efficiency by 2030. In 2024, the global investment in energy efficiency stood at $354.54 Billion (USD) worldwide. Therefore by 2030, this figure should have increased to at least $709 Billion (USD). Therefore, the required Compound Annual Growth Rate (CAGR) to increase global investment in energy efficiency from $354.54 billion in 2024 to $709 billion by 2030 is calculated: 
+
+```# Given data
+investment_2024 = 354.54  # in billion USD
+investment_2030 = 709.00  # in billion USD
+years = 6  # From 2024 to 2030
+
+# CAGR formula
+cagr = ((investment_2030 / investment_2024) ** (1 / 6)) - 1
+cagr_percentage = cagr * 100  # Convert to percentage
+cagr_percentage
+
+Result
+12.244094086840596
+```
+That is, approximately 12.24% increase per year.
+
+If so, then the probability of reaching $709 billion in global energy efficiency investments by 2030 (𝑃(𝐴)P(A)) under specific conditions is calculated by framing a conditional probability model.
+
+* **Events**
+
+Event 𝐴: Global energy efficiency investments reach $709 billion by 2030.
+
+Event 𝐵: Strong global policy support for energy efficiency (e.g., subsidies, regulations, or incentives).
+
+Event 𝐶: Increased private sector participation in energy investments (e.g., companies adopting renewable energy technologies).
+
+Event 𝐷: Global GDP growth remains above 3%, supporting economic feasibility for investments.
+
+* **Conditional Relationships**
+
+𝑃(𝐴∣𝐵,𝐶,𝐷): The probability of reaching $709 billion (𝐴) depends on 𝐵, 𝐶, and 𝐷.
+
+If 𝐵, 𝐶, and 𝐷 are independent, then: 𝑃(𝐴∣𝐵,𝐶,𝐷)=𝑃(𝐴∩𝐵∩𝐶∩𝐷)/𝑃(𝐵∩𝐶∩𝐷)
+
+* **Hypothesis**
+
+Assume:
+
+𝑃(𝐵)=0.8: 80% chance of strong policy support.
+
+𝑃(𝐶)=0.7: 70% chance of strong private sector participation.
+
+𝑃 (𝐷)=0.6: 60% chance of sustained GDP growth.
+
+𝑃(𝐴∣𝐵,𝐶,𝐷)=0.9: 90% chance of hitting $709 billion if all conditions are met.
+
+Joint probability of conditions:```𝐵,𝐶,B,C, and 𝐷: 𝑃(𝐵∩𝐶∩𝐷)=𝑃(𝐵)⋅𝑃(𝐶)⋅𝑃(𝐷)=0.8×0.7×0.6=0.336```
+
+Probability of hitting $709 billion: ```𝑃(𝐴∩𝐵∩𝐶∩𝐷)=𝑃(𝐴∣𝐵,𝐶,𝐷)⋅𝑃(𝐵∩𝐶∩𝐷)=0.9×0.336=0.3024```
+
+Final Probability: ```𝑃(𝐴∣𝐵,𝐶,𝐷)=𝑃(𝐴∩𝐵∩𝐶∩𝐷)/𝑃(𝐵∩𝐶∩𝐷)=0.3024/0.336=0.9```
+
 
 
 ## Visualizations
 ![WEIT1](https://github.com/kayeneii/WEIT_2015-2024/blob/main/WEIT_1.png)
 ![WEIT2](https://github.com/kayeneii/WEIT_2015-2024/blob/main/WEIT_2.png)
+![WEIT5](https://github.com/kayeneii/WEIT_2015-2024/blob/main/WEIT_5.png)
 ![WEIT3](https://github.com/kayeneii/WEIT_2015-2024/blob/main/WEIT_3.png)
-
+![WEIT4](https://github.com/kayeneii/WEIT_2015-2024/blob/main/WEIT_4.png)
 
 ## Conclusion
 Thank you for reading my report!🥳 You may find me on [LinkedIn](https://www.linkedin.com/in/kayeneii/) for collaborations, I look forward to hearing from you.😄
